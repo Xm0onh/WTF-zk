@@ -1,5 +1,7 @@
 # WTF zk
 
+[English Version](https://github.com/WTFAcademy/WTF-zk/blob/main/Languages/en/README.md)
+
 零知识证明（zero-knowledge proof）入门教程，目的是让仅有高中数学基础的人也能入门zk。我们会使用python复现一些算法，所以你也需要学python。
 
 > 我们最近在学习zero-knowledge proof，巩固一下细节，也写一个“WTF zk极简入门”，供小白们使用（编程大佬可以另找教程），每周更新1-3讲。
@@ -102,6 +104,12 @@
 
 **第39讲 扩域上的 Weil 配对**：[教程](./39_PairingExtension/readme.md) 
 
+**第40讲 常用椭圆曲线**：[Code](./40_PopularCurves/40_PopularCurves.ipynb) | [教程](./40_PopularCurves/readme.md) 
+
+**里程碑06 哈希函数 Hash** [Code](./MS06_Hash/Hash.ipynb) | [教程](./MS06_Hash/readme.md)
+
+**里程碑07 身份基加密 IBE** [Code](./MS07_IBE/IBE.ipynb) | [教程](./MS07_IBE/readme.md)
+
 ## WTF zk贡献者
 <div align="center">
   <h4 align="center">
@@ -111,6 +119,10 @@
     <img src="https://contrib.rocks/image?repo=WTFAcademy/WTF-zk" />
   </a>
 </div>
+
+## WTF zk赞助商
+
+![](./img/full_logo_zksync-black.png)
 
 ## Reference
 
